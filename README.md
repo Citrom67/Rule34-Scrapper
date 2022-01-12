@@ -1,5 +1,5 @@
 # Rule34-Scrapper
-A JavaScript, most specifically a NodeJS Rule34 image downloader for personal use
+A JavaScript, more specifically a NodeJS Rule34 image downloader
 
 ## Dependencies
 - NodeJS (made with 17.3)
