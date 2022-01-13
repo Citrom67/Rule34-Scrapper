@@ -3,7 +3,7 @@ A JavaScript, more specifically a NodeJS Rule34 image downloader
 
 ## Dependencies
 - [NodeJS (made with 17.3)](https://nodejs.org/en/)
-- [readline-sync](github.com/anseki/readline-sync)
+- [readline-sync](https://github.com/anseki/readline-sync)
 
 ## How to run it
 Once you have all the dependencies it should run just fine from a terminal with the ```node Scrapper.js``` command!
